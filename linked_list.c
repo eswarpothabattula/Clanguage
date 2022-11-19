@@ -246,4 +246,10 @@ int main() {
    reverse(&head);
    printf("\nList after reversing the data: ");
    printList();
+
+
 }
+
+
+/* hai veera
+ * */
