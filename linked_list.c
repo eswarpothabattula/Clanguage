@@ -247,6 +247,8 @@ int main() {
    printf("\nList after reversing the data: ");
    printList();
 
+   printf("Added for test");
+
 
 }
 
